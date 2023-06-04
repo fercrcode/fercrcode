@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Last year PhD Student in Computational Biology working with single-cell omics data.
+Interested in looking into cancer, plasticity and how the tumour micro-environment and genetic alterations interact to control these processes.
+Always eager to learn new things!
+
+⚡   Fun fact: I love both nature🌿 and tech👨‍💻, and will rarely refuse going out for a pint🍻!
+
+🌐  Personal profiile and portfolio: https://ferranc96.github.io/
+
 <!--
 **FerranC96/FerranC96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
