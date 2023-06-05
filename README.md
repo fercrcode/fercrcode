@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Last year PhD Student in Computational Biology working with single-cell omics data.
+I'm a last year PhD Student in Computational Biology working with single-cell omics data at the [Tape Lab](http://tape-lab.com/).
 Interested in looking into cancer, plasticity and how the tumour micro-environment and genetic alterations interact to control these processes.
 Always eager to learn new things!
 
 ⚡   Fun fact: I love both nature🌿 and tech👨‍💻, and will rarely refuse going out for a pint🍻!
+
+❣️   Check her out!: My fiance is a researcher that loves drawing on her spare time. Check out the amazing things she's done as [Aquacletas here](https://aquacletas.github.io/)!
 
 🌐  Personal profiile and portfolio: https://ferranc96.github.io/
 
