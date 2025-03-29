@@ -12,7 +12,7 @@ impactful software solutions to empower researchers and colleagues.
 - ❣️  Check Her Out: My wife is a researcher that loves drawing on her spare time.
 Check out the amazing things she's done as [Aquacletas here](https://aquacletas.github.io/)!
 
-- 🌐  Personal profiile and portfolio: https://ferranc96.github.io/
+- 🌐  Personal profiile and portfolio: https://fercrcode.github.io/
 
 <!--
 **FerranC96/FerranC96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
